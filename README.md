@@ -5,15 +5,7 @@
 
 Masaüstü Projesi Kodları için -> [Masaüstü Repository](https://github.com/hamdidamar/TeknikServis-UrunTakipSistemi)
 
-## Geliştirici
 
-👤 **Hamdi DAMAR**
-
-- [Web Site](http://hamdidamar.com/?i=1)
-- [LinkedIn](https://www.linkedin.com/in/hamdi-damar-bb6a8b159/)
-- [Medium](https://medium.com/@damar14607)
-- [GitHub](https://github.com/hamdidamar)
-- [Twitter](https://twitter.com/DamarHamdi)
 
 ### Web Demo 
 ![Teknik Servis](https://user-images.githubusercontent.com/61479214/77448253-9a3e0580-6e01-11ea-91bb-81c614c03431.PNG)
